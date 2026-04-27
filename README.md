@@ -58,12 +58,4 @@ These days I'm a hands-on operator in **agentic AI delivery** — bridging execu
 
 ---
 
-### 📊 GitHub Stats
-
-![Parag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psshah2018&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psshah2018&layout=compact)
-
----
-
 *"Bridging the gap between executive program governance and hands-on agentic AI delivery."*
